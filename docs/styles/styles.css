@@ -1,3 +1,7 @@
+#header-items ul{
+    list-style:none;
+}
+
 #header-items li{
     display:inline
 }
