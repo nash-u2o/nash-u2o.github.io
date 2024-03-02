@@ -1,7 +1,17 @@
+.header {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+  }
+
 #header-items ul{
     list-style:none;
 }
 
 #header-items li{
     display:inline-block;
+    padding: 10px 5px;
+}
+#header-items li:hover{
+    background-color: blue;
 }
