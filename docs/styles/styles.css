@@ -1,9 +1,12 @@
 .header {
     overflow: hidden;
     background-color: #f1f1f1;
-    /*padding: 20px 10px;*/
+    padding: 20px 10px;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
   }
 
 #header-items ul{
@@ -19,5 +22,5 @@
 }
 #header-link-item a{
     text-decoration: none;
-    color:inherit;
+    color: inherit;
 }
