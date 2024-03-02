@@ -16,11 +16,11 @@
 #header-items li{
     display:inline-block;
 }
-#header-link:hover{
+#header-link-item:hover{
     background-color: blue;
     padding: 10px 5px;
 }
-#header-link-item a{
+#header-link-item {
     text-decoration: none;
     color: inherit;
 }
